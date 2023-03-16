@@ -15,9 +15,7 @@
             # code...
             $user = $results;
         }
-    }
-
-    
+    } 
 ?>
 
 <!DOCTYPE html>
